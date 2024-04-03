@@ -10,4 +10,9 @@ class MiskotestApplicationTests {
 	void contextLoads() {
 	}
 
+    @Test
+    void testMain() {
+        
+    }
+
 }

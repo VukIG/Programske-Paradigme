@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MiskotestApplication<miskotest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "rs.co.skola.miskotest.MiskotestApplication",
+            "projectName": "miskotest",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
