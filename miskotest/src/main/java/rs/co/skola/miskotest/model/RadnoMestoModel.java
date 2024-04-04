@@ -31,7 +31,6 @@ public class RadnoMestoModel implements Serializable{
         this.naziv = naziv;
     }
     public RadnoMestoModel() {
-        
     }
     public RadnoMestoModel(Long id, String naziv) {
         this.id = id;
